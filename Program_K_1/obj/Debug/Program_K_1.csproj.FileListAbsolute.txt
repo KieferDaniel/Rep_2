@@ -1,0 +1,6 @@
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\bin\Debug\Program_K_1.exe.config
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\bin\Debug\Program_K_1.exe
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\bin\Debug\Program_K_1.pdb
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\obj\Debug\Program_K_1.csprojResolveAssemblyReference.cache
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\obj\Debug\Program_K_1.exe
+c:\users\dmkiedan\documents\visual studio 2015\Projects\Program_K_1\Program_K_1\obj\Debug\Program_K_1.pdb
