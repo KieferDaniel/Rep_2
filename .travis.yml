@@ -3,4 +3,3 @@ solution: Program_K_1.sln
 install:
 - sudo apt-get install -y gtk-sharp2
 - nuget restore Program_K_1.sln
-	
